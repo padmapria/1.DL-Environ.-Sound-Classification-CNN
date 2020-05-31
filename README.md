@@ -1,5 +1,5 @@
 # 1.DL-Environ.-Sound-Classification-CNN
-Environmental sound classification using CNN and deployment as webservice
+Environmental sound classification using CNN and deploying as webservice using Flask
 
 In this project, you will use the Environment Sound Classification (ESC) dataset available from Kaggle. https://www.kaggle.com/mmoreaux/environmental-sound-classification-50
 
